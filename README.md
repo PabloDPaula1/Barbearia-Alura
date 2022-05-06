@@ -1,2 +1,2 @@
 # Barbearia-Alura
-Meu primeiro projeto pela Alura, desenvolvendo HTML e CSS.
+Meu primeiro projeto que conseguir desenvolver com a Alura, aplicando todo o conteúdo que eu aprendi de HTML e CSS.
